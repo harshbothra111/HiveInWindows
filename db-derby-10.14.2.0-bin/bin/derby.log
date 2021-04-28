@@ -1,0 +1,14 @@
+Mon Apr 26 03:58:30 IST 2021 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon Apr 26 04:09:34 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0179-0b25-fea8-ffffa6f5534d 
+on database directory E:\Work\db-derby-10.14.2.0-bin\bin\metastore_db with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/E:/Work/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_291-b10
+user.dir=E:\Work\db-derby-10.14.2.0-bin\bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Work\db-derby-10.14.2.0-bin\bin
+Database Class Loader started - derby.database.classpath=''

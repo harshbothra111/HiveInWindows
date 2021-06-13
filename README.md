@@ -71,7 +71,7 @@ export HADOOP_CLASSPATH=$HADOOP_CLASSPATH:$HIVE_HOME/lib/*.jar
 **hive**
 
 **Alternate for Cygwin**
-hive --service schematool -dbType derby -initSchema
+- hive --service schematool -dbType derby -initSchema
 
 ### HIVE GUI
 Install dbeaver community edition for accessing Hive GUI (dbeaver-ce-7.3.5-x86_64-setup.exe) 
